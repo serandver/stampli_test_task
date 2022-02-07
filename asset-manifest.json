@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stampli_test/static/css/main.c5ae5344.chunk.css",
+    "main.js": "/stampli_test/static/js/main.c84e7ab7.chunk.js",
+    "main.js.map": "/stampli_test/static/js/main.c84e7ab7.chunk.js.map",
+    "runtime-main.js": "/stampli_test/static/js/runtime-main.90bb9494.js",
+    "runtime-main.js.map": "/stampli_test/static/js/runtime-main.90bb9494.js.map",
+    "static/css/2.c79dbdbc.chunk.css": "/stampli_test/static/css/2.c79dbdbc.chunk.css",
+    "static/js/2.21b3f58e.chunk.js": "/stampli_test/static/js/2.21b3f58e.chunk.js",
+    "static/js/2.21b3f58e.chunk.js.map": "/stampli_test/static/js/2.21b3f58e.chunk.js.map",
+    "index.html": "/stampli_test/index.html",
+    "static/css/2.c79dbdbc.chunk.css.map": "/stampli_test/static/css/2.c79dbdbc.chunk.css.map",
+    "static/css/main.c5ae5344.chunk.css.map": "/stampli_test/static/css/main.c5ae5344.chunk.css.map",
+    "static/js/2.21b3f58e.chunk.js.LICENSE.txt": "/stampli_test/static/js/2.21b3f58e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90bb9494.js",
+    "static/css/2.c79dbdbc.chunk.css",
+    "static/js/2.21b3f58e.chunk.js",
+    "static/css/main.c5ae5344.chunk.css",
+    "static/js/main.c84e7ab7.chunk.js"
+  ]
+}
